@@ -1,0 +1,24 @@
+[
+  {
+    "pertanyaan": "Vitamin D berfungsi utama untuk?",
+    "pilihan": [
+      "Meningkatkan penyerapan kalsium",
+      "Meningkatkan produksi insulin",
+      "Menurunkan tekanan darah",
+      "Sebagai antibiotik alami"
+    ],
+    "jawabanBenar": 0,
+    "pembahasan": "Vitamin D penting untuk metabolisme tulang karena meningkatkan penyerapan kalsium."
+  },
+  {
+    "pertanyaan": "Obat ibuprofen termasuk golongan?",
+    "pilihan": [
+      "NSAID",
+      "Antibiotik",
+      "Vitamin",
+      "Antidepresan"
+    ],
+    "jawabanBenar": 0,
+    "pembahasan": "Ibuprofen adalah obat antiinflamasi non-steroid (NSAID)."
+  }
+]
